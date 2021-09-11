@@ -1,1 +1,3 @@
 # CNNs-for-Text-Classification
+## Abstract:
+Convolutional neural networks are great for sequence data and are usually used for tasks involving images. And historically they have been used successfully to great extent on tasks like Image recognition, Video analysis, Anomaly detection, Time series forecasting, etc. This project focuses on the implementation of convolutional neural networks in the field of Natural Language Processing, specifically for sentence classification. I focus on experimentation with and without pre-trained word embeddings, and contrast between architectural changes such as single vs multi-channel CNNs, and report on the results obtained.
